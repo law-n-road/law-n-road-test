@@ -1,0 +1,6 @@
+# .github/ISSUE_TEMPLATE/config.yml
+blank_issues_enabled: false
+issue_templates:
+  - name: 🧯 트러블슈팅
+    description: 이슈 발생 내용을 정리할 때 사용하는 템플릿입니다.
+    file: troubleshooting.md
