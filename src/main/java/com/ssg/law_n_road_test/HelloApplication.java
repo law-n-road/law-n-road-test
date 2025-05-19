@@ -5,5 +5,9 @@ import javax.ws.rs.core.Application;
 
 @ApplicationPath("/api")
 public class HelloApplication extends Application {
-
+    int a;
+    int b;
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
